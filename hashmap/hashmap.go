@@ -11,7 +11,7 @@ import (
 	"errors"
 	"unsafe"
 
-	"github.com/nats-io/gnatsd/hash"
+	"github.com/glycerine/hashmap-nats/hash"
 )
 
 // HashMap stores Entry items using a given Hash function.
